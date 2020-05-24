@@ -14,3 +14,7 @@ There was no sufficient evidence found to suggest that the new page converts bet
 Bootstrapping sampling distributions
 P-value and Z-score calculation
 Logistic regression
+
+## Tools
+Python, Pandas, Numpy, Matplotlib, StatsModels, Scipy
+Jupyter Notebook
